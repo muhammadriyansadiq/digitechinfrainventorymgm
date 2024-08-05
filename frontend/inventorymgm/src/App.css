@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.products .ant-pagination-options{
+  display: none !important;
+}
+
+
+
+.orderscreate ul{
+  display: none !important;
+}
+
+.allorders .ant-pagination-options{
+  display: none !important;
+}
+
+
+.suppliers .ant-table-cell {
+  border: 1px solid #dbd9d9 !important; /* Adjust the border color as needed */
+  
+}
+
+/* .suppliers col{
+  width: 120px !important; 
+} */
+
+
+.sales .apexcharts-menu-icon{
+  display: none !important;
+}
+
+.sales #apexchartssna0rguf{
+  margin-top: 12px !important;
+}
+.newclients .apexcharts-toolbar{
+  display: none !important;
+
+}
+
+.revenue .apexcharts-toolbar{
+  display: none !important;
+
+}
+
+.active{
+border-bottom-color: #0d13c3 !important;
+}
+.customselect{
+  appearance: none; /* Remove default arrow */
+  -webkit-appearance: none; /* Safari and Chrome */
+  -moz-appearance: none; /* Firefox */
+  text-align: center;
+}
+
+/* .header{
+  box-shadow: 10px 4px 17px 0px rgb(29, 29, 29) !important;
+  background-color: rgb(22, 23, 23) !important;
+  z-index: 1;
+}
+
+.allorders{
+  z-index: 0.5;
+}
+
+.home{
+  z-index: 0.5;
+} */
