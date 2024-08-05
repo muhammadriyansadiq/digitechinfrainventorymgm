@@ -16,7 +16,7 @@ const Orders = () => {
     { col1: '0', col2: 'Riyan', col3: 'rabees699@gmail.com', col4: '1 month ago', col5: 'button',col6:"opop",col7:"ok" },
     { col1: '0', col2: 'Riyan', col3: 'rabees699@gmail.com', col4: '1 month ago', col5: 'button',col6:"opop",col7:"ok" },
     { col1: '0', col2: 'Riyan', col3: 'rabees699@gmail.com', col4: '1 month ago', col5: 'button',col6:"opop",col7:"ok" },
-    { col1: '0', col2: 'Rian', col3: 'rabees699@gmail.com', col4: '1 month ago', col5: 'button',col6:"opop",col7:"ok" }, 
+    { col1: '0', col2: 'Rian', col3: 'rabees6199@gmail.com', col4: '1 month ago', col5: 'button',col6:"opop",col7:"ok" }, 
   ];
 
 const [currentPage, setCurrentPage] = useState(1);
